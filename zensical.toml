@@ -17,7 +17,8 @@ nav = [
   { "Section 2" = "item2.md"},
   { "About" = [
       "about/index.md",
-      "about/about1.md",]},
+      "about/about1.md",
+      "about/about2.md",]},
 ]
 
 # extra_css = ["stylesheets/extra.css"]

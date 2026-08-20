@@ -18,4 +18,7 @@
       <url>
         <loc>https://www.example.com/about/about1/</loc>
       </url>
+      <url>
+        <loc>https://www.example.com/about/about2/</loc>
+      </url>
 </urlset>
